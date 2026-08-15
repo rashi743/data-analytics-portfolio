@@ -128,6 +128,7 @@ superstore-sales-performance/
     ├── Regional_Market_Analysis.png
     ├── Sales_Pipeline_Opportunity_Tracking.png
     └── Shipping_Delivery_Performance.png
+```
 
 
 ## Dashboard Screenshots
