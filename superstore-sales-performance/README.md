@@ -155,7 +155,7 @@ superstore-sales-performance/
 
 ### 6. Sales Pipeline Opportunity Tracking
 
-![Sales Pipeline Opportunity Tracking](./Screenshots/Sales_Pipeline_Opportunity_Tracking.png)
+![Sales Pipeline Opportunity Tracking](./Screenshots/Sales_Pipeline.png)
 
 ### 7. Shipping & Delivery Performance
 
