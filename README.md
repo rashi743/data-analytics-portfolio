@@ -2,32 +2,35 @@
 
 Hi! I'm Rashi Soni, a BCA graduate specializing in Data Science and AI.
 
-I'm building my skills in data analytics and using this repository to document my projects, analysis, and learning journey.
+This repository contains my data analytics projects, dashboards, and practical work as I build my skills in data analysis and business intelligence.
 
 ## Skills
 
+- Power BI
+- Excel
 - Python
 - SQL
-- Excel
 - Data Cleaning
 - Data Analysis
 - Data Visualization
+- DAX
 
 ## Projects
 
-### Superstore Sales Analysis
+### Superstore Sales Performance Dashboard
 
-A data analysis project focused on cleaning, exploring, and analyzing sales data to identify patterns and generate meaningful business insights.
+A Power BI project analyzing sales performance, profitability, customers, products, regions, discounts, and shipping-related metrics using Superstore data.
 
-Tools: Python, Pandas, Excel
+Tools: Power BI, DAX, CSV
 
 ## Currently Learning
 
-- Advanced data analysis with Python
+- Advanced Power BI and DAX
 - SQL for data analysis
-- Data visualization
-- Statistics for data analytics
+- Python for data analytics
+- Statistics
+- Business-focused data analysis
 
 ## Goal
 
-To develop strong practical data analytics skills and build real-world projects that demonstrate my ability to turn data into useful insights.
+To build practical data analytics projects that demonstrate my ability to clean, analyze, visualize, and communicate insights from data.
