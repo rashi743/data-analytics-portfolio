@@ -128,3 +128,34 @@ superstore-sales-performance/
     ├── Regional_Market_Analysis.png
     ├── Sales_Pipeline_Opportunity_Tracking.png
     └── Shipping_Delivery_Performance.png
+
+
+## Dashboard Screenshots
+
+### 1. Overview
+
+![Overview](./Screenshots/Overview.png)
+
+### 2. Customer Segment Analysis
+
+![Customer Segment Analysis](./Screenshots/Customer_Segment_Analysis.png)
+
+### 3. Product Category Performance
+
+![Product Category Performance](./Screenshots/Product_Category_Performance.png)
+
+### 4. Profit & Discount Analysis
+
+![Profit Discount Analysis](./Screenshots/Profit_Discount_Analysis.png)
+
+### 5. Regional Market Analysis
+
+![Regional Market Analysis](./Screenshots/Regional_Market_Analysis.png)
+
+### 6. Sales Pipeline Opportunity Tracking
+
+![Sales Pipeline Opportunity Tracking](./Screenshots/Sales_Pipeline_Opportunity_Tracking.png)
+
+### 7. Shipping & Delivery Performance
+
+![Shipping Delivery Performance](./Screenshots/Shipping_Delivery_Performance.png)
